@@ -1,6 +1,6 @@
 """
 RAG Chatbot using LangChain and OpenAI
-Author: [Your Name]
+Author: SID
 Date: May 19, 2025
 
 This module implements a Retrieval-Augmented Generation (RAG) chatbot
